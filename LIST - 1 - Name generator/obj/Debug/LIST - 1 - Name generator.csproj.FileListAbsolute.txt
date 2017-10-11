@@ -1,0 +1,9 @@
+C:\Users\Roman\Desktop\C#\LIST - 1 - Name generator\LIST - 1 - Name generator\bin\Debug\LIST - 1 - Name generator.exe.config
+C:\Users\Roman\Desktop\C#\LIST - 1 - Name generator\LIST - 1 - Name generator\bin\Debug\LIST - 1 - Name generator.exe
+C:\Users\Roman\Desktop\C#\LIST - 1 - Name generator\LIST - 1 - Name generator\bin\Debug\LIST - 1 - Name generator.pdb
+C:\Users\Roman\Desktop\C#\LIST - 1 - Name generator\LIST - 1 - Name generator\obj\Debug\LIST - 1 - Name generator.csprojResolveAssemblyReference.cache
+C:\Users\Roman\Desktop\C#\LIST - 1 - Name generator\LIST - 1 - Name generator\obj\Debug\LIST - 1 - Name generator.csproj.CoreCompileInputs.cache
+C:\Users\Roman\Desktop\C#\LIST - 1 - Name generator\LIST - 1 - Name generator\obj\Debug\LIST - 1 - Name generator.exe
+C:\Users\Roman\Desktop\C#\LIST - 1 - Name generator\LIST - 1 - Name generator\obj\Debug\LIST - 1 - Name generator.pdb
+C:\Users\Roman\Desktop\C#\LIST - 1 - Name generator\LIST - 1 - Name generator\bin\Debug\FileHelpers.dll
+C:\Users\Roman\Desktop\C#\LIST - 1 - Name generator\LIST - 1 - Name generator\bin\Debug\FileHelpers.xml
